@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fkgmj5pe1-java-quarkus-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/fkgmj5pe1-java-quarkus
